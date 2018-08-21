@@ -8,7 +8,7 @@ All my ratings are normalized to a full-score 10 in all categories for the best 
 
 # Reviews
 
-Last updated: 8/12/2018
+Last updated: 8/20/2018
 
 ## Verde
 
@@ -31,3 +31,25 @@ Date visited: 8/12
 - Boba: 8/10
 - Selection: 9/10
 - Comments: Ordered a classic milk green tea w/ boba, 50% sugar. It's a little on the sweet side. Boba is pretty good, but could be a little chewier. Great tea flavor. Decor was cute and there was no line. 
+
+## Teaspoon
+
+Date visited: 8/15
+
+- **Overall: 7.5/10**
+- Tea flavor: 8/10
+- Milk / Sweetener: 7/10
+- Boba: 7/10
+- Selection: 9/10
+- Comments: Ordered a Fresh Milk Tea with Green Tea, Whole Milk, Boba, and half sugar. Los Altos location.
+
+## Pop Tea Bar
+
+Date visited: 8/20
+
+- **Overall: 6.5/10**
+- Tea flavor: 6/10
+- Milk / Sweetener: 5/10
+- Boba: 8/10
+- Selection: 7/10
+- Comments: Ordered a Fresh Milk Tea with Green Tea, Whole Milk, Boba, and half sugar. Definitely should have gone for 75% sugar. Overall, not super impressed, but one thing that stood out was the great boba. Perfect texture and just the right touch of sweetness from the boba. 
